@@ -1,2 +1,2 @@
-# Restaurant-Recommendation-ML-Model
+# Restaurant-Recommendation-ML
 tbd
